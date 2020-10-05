@@ -1,8 +1,6 @@
 <h1 align="center">Fala nerds, meu nome é Michel Bittencourt</h1>
 <h3 align="center">E sou desenvolvedor Front-End e Mobile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michelbittencourt" alt="michelbittencourt" /> </p>
-
 - 🔭 Estou trabalhando atualmente na **Zaal Tecnologia**
 
 - 🌱 Estou estudando **Pós Graduação em Engenharia de Software pela PUC Minas**
