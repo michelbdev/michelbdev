@@ -14,6 +14,3 @@
 <a href="https://instagram.com/michelbittencourt" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="michelbittencourt" height="30" width="40" /></a>
 </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelbittencourt&layout=compact" alt="michelbittencourt" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michelbittencourt&show_icons=true" alt="michelbittencourt" /></p>
