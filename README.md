@@ -1,7 +1,7 @@
 <h1 align="center">Hey nerds, I am Michel Bittencourt</h1>
 <h3 align="center">And I'm front-end and mobile developer</h3>
 
-- 🔭 I'm actually working at **Zaal Tecnologia** as **Front-End Developer**
+- 🔭 I'm actually working at **Globo** as **Software Engineer**
 
 - 🌱 Currently studying **Master's degree in Software Engineering at PUC Minas**
 
