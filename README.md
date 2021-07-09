@@ -3,7 +3,7 @@
 
 - 🔭 I'm actually working at **Globo** as **Software Engineer**
 
-- 🌱 Currently studying **Master's degree in Software Engineering at PUC Minas**
+- 🌱 Currently studying **Software Engineering at PUC Minas**
 
 - 👨‍💻 I love to use **React Native and Flutter for mobile development and React for Front-End**
 
