@@ -28,13 +28,13 @@
 ### 🛠️ Tech Stack
 
 #### Frontend
-React • Redux • TypeScript • Next.js • Styled Components • Testing Library
+React • Redux • TypeScript • Styled Components • Testing Library
 
 #### Backend
-Node.js • Express • Ruby on Rails • REST & GraphQL APIs
+Golang • Ruby on Rails • Node.JS
 
 #### Infrastructure
-Docker • CI/CD • AWS • Cloud Run • MySQL • PostgreSQL
+Docker • CI/CD • Google Cloud • MongoDB • PostgreSQL
 
 ---
 
