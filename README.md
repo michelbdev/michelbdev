@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/michelbittencourt" target="_blank">
-    <img src="https://img.shields.io/badge/-Michel%20Bittencourt-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Michel%20Bittencourt-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/michelbittencourt" target="_blank">
     <img src="https://img.shields.io/badge/-@michelbittencourt-E4405F?style=flat&logo=Instagram&logoColor=white"/>
